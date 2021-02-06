@@ -6,5 +6,7 @@ public class loginpage {
 		System.out.println("loginpage");
 	}
 	
-	
+	public void loginSet() {
+		System.out.println("login set");
+	}
 }
